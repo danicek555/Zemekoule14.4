@@ -30,7 +30,6 @@ Program následně:
 
 1. Afrika ... Vaše volba: Afrika Načítání dat... Alžírsko: 56.123 milionů Nigerie: 400.546 milionů ... Celkový počet obyvatelů Afriky: 789.000 milionů
 
-
 ## ⚙️ Technologie
 
 - Programovací jazyk: **C#**
@@ -50,4 +49,6 @@ Projekt vytvořen pro zábavu a procvičení základů C# na GYMJS🎓
 
 ---
 
-🗝️ *„Programování není jen o kódu, ale o tvorbě kouzla z příkazů.“*
+🗝️ _„Programování není jen o kódu, ale o tvorbě kouzla z příkazů.“_
+
+> Poznámka: Tento README file byl vygenerován ChatGPT
