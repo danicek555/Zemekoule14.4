@@ -1,0 +1,15 @@
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.AssemblyInfoInputs.cache
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.AssemblyInfo.cs
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.csproj.CoreCompileInputs.cache
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/bin/Debug/net9.0/Zemekoule14.4
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/bin/Debug/net9.0/Zemekoule14.4.deps.json
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/bin/Debug/net9.0/Zemekoule14.4.runtimeconfig.json
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/bin/Debug/net9.0/Zemekoule14.4.dll
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/bin/Debug/net9.0/Zemekoule14.4.pdb
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.dll
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/refint/Zemekoule14.4.dll
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.pdb
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.genruntimeconfig.cache
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/ref/Zemekoule14.4.dll
+/Users/danielmitka/Desktop/Csharp/Zemekoule14.4/obj/Debug/net9.0/Zemekoule14.4.sourcelink.json
