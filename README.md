@@ -1,3 +1,6 @@
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Console App](https://img.shields.io/badge/-Console%20App-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
 # 🌍 Simulátor populace kontinentů 2050
 
 Tento konzolový program napsaný v jazyce **C#** umožňuje zobrazit **náběžný odhad počtu obyvatel jednotlivých států vybraného kontinentu** v roce 2050.
