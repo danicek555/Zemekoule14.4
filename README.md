@@ -39,14 +39,13 @@ Program následně:
 
 ## 🧠 Tipy pro rozšíření
 
-- Přidat možnost zobrazit všechny kontinenty najednou.
-- Přidat statistiky růstu populace.
+- Přidat statistiky více do budoucna růstu populace.
 - Export výsledků do souboru.
-- Lokalizace do více jazyků.
+- Přidání více jazyků.
 
 ## 💡 Autor
 
-Projekt vytvořen pro zábavu a procvičení základů C# 🎓  
+Projekt vytvořen pro zábavu a procvičení základů C# na GYMJS🎓  
 **Vaše Velikost™**
 
 ---
