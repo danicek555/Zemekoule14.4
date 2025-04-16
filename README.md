@@ -52,6 +52,5 @@ Projekt vytvořen pro zábavu a procvičení základů C# na GYMJS🎓
 
 ---
 
-🗝️ _„Programování není jen o kódu, ale o tvorbě kouzla z příkazů.“_
+> „Programování není jen o kódu, ale o tvorbě kouzla z příkazů.“
 
-> Poznámka: Tento README file byl vygenerován ChatGPT
